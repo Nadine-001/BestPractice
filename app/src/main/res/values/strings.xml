@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BestPractice</string>
+    <string name="category">Category</string>
+    <string name="hymart">Hymart</string>
+    <string name="detail_activity">Detail Activity</string>
+    <string name="menu1"><![CDATA[Makanan & Minuman]]></string>
+    <string name="menu2"><![CDATA[Rumah & Dapur]]></string>
+    <string name="menu4"><![CDATA[Kesehatan & Kecantikan]]></string>
+    <string name="menu3"><![CDATA[Ibu & Anak]]></string>
+</resources>
